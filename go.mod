@@ -9,5 +9,5 @@ require (
 	github.com/google/uuid v1.1.1
 	github.com/petar/GoLLRB v0.0.0-20190514000832-33fb24c13b99 // indirect
 	github.com/pion/ion v0.3.2
-	github.com/pion/webrtc/v2 v2.2.8
+	github.com/pion/webrtc/v2 v2.2.9
 )
